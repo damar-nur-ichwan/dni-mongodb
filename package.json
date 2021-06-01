@@ -1,0 +1,27 @@
+{
+  "name": "dni-mongodb",
+  "version": "1.0.0",
+  "description": "to access your mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damar-nur-ichwan/dni-mongodb.git"
+  },
+  "keywords": [
+    "dni",
+    "mongodb"
+  ],
+  "author": "damar nur ichwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damar-nur-ichwan/dni-mongodb/issues"
+  },
+  "homepage": "https://github.com/damar-nur-ichwan/dni-mongodb#readme",
+  "dependencies": {
+    "mongodb": "^3.6.9"
+  },
+  "devDependencies": {}
+}
